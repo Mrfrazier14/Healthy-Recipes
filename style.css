@@ -1,1 +1,8 @@
-<!-- I will add CSS later on as I finish this website -->
+/*I will add CSS later on as I finish this website */
+img {
+  height: 150px;
+}
+/* I will be adding more CSS below as I go into detail in this project */
+.description {
+  font-size: 20px;
+}
