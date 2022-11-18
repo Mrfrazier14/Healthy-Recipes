@@ -18,3 +18,7 @@ p, .time {
 .external-link {
   color: SeaGreen;
 }
+h1, h2, p, li {
+  font-family: Helvetica;
+}
+/*I'm finish with this small project for now but I will add more code later on as I learn from CSS and HTML5*/
