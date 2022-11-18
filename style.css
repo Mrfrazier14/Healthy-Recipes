@@ -12,3 +12,6 @@ img {
 .ingredients li {
   list-style: square;
 }
+p, .time {
+  color: Gray;
+}
